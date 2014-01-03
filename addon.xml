@@ -2,7 +2,7 @@
 <addon id="script.module.html5lib"
        name="html5lib-python"
        version="0.999"
-       provider-name="https://github.com/html5lib">
+       provider-name="html5lib">
   <requires>
     <import addon="xbmc.python" 
     		version="2.1.0"/>
